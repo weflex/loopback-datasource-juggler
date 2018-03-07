@@ -50,6 +50,7 @@
     "inflection": "^1.6.0",
     "lodash": "^4.17.4",
     "loopback-connector": "^4.4.0",
+    "loopback-connector-mongodb": "^3.4.1",
     "minimatch": "^3.0.3",
     "qs": "^6.5.0",
     "shortid": "^2.2.6",
